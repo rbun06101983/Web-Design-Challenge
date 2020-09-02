@@ -1,4 +1,4 @@
-Hosted on Git Hub Pages https://rbun06101983.github.io/
+Hosted on Git Hub Pages https://rbun06101983.github.io/Web-Design-Challenge/
 
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
